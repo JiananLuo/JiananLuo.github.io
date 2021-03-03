@@ -8,7 +8,7 @@ style: styles-5 #orange
 
 #Profile information
 name: Jianan Luo
-tagline: UW CS Undergrad
+tagline: Software Development Engineer at Amazon
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
